@@ -1,0 +1,8 @@
+# Travis config file for the project.
+language: android
+android:
+  components:
+    - build-tools-24.0.0
+    - android-24
+
+script: ./Phone-Sec-Camera/gradlew build
