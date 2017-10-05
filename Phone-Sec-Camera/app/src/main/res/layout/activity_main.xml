@@ -10,7 +10,49 @@
     tools:context="com.v8r1.sec.camera.MainActivity">
 
     <TextView
+        android:id="@+id/textId1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_marginTop="40dp"
+        android:text="Number of cameras found "
+        android:textSize="24sp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textId1"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="136dp"
+        android:layout_toLeftOf="@+id/camera_name_button"
+        android:layout_toStartOf="@+id/camera_name_button"
+        android:ems="10"
+        android:hint="Enter back camera name here"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/camera_name_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editText"
+        android:layout_alignBottom="@+id/editText"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="SUBMIT" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp"
+        android:text="Welcome To Phone Sec App"
+        android:textAlignment="center"
+        android:textSize="30sp" />
 </RelativeLayout>
