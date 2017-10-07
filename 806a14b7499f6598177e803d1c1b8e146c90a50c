@@ -1,0 +1,222 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "18394a72_d1dd9f18",
+        "filename": "Phone-Sec-Camera/app/src/main/java/com/v8r1/sec/camera/MainActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "Please use a constant string as the Log tag for the class.",
+      "range": {
+        "startLine": 40,
+        "startChar": 23,
+        "endLine": 40,
+        "endChar": 33
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c6c08dd5_19bc5ff4",
+        "filename": "Phone-Sec-Camera/app/src/main/java/com/v8r1/sec/camera/MainActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "We need to use the strings from string.xml to support translation",
+      "range": {
+        "startLine": 42,
+        "startChar": 29,
+        "endLine": 42,
+        "endChar": 33
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b0402f03_9bf8f1d3",
+        "filename": "Phone-Sec-Camera/app/src/main/java/com/v8r1/sec/camera/MainActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "What is this change for? Does the keypad need to be hidden here?",
+      "range": {
+        "startLine": 45,
+        "startChar": 16,
+        "endLine": 48,
+        "endChar": 17
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f64c0e72_d9724c61",
+        "filename": "Phone-Sec-Camera/app/src/main/java/com/v8r1/sec/camera/MainActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "Where is this cameraId used?",
+      "range": {
+        "startLine": 60,
+        "startChar": 50,
+        "endLine": 60,
+        "endChar": 58
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cc8fe4df_7ab6ea30",
+        "filename": "Phone-Sec-Camera/app/src/main/java/com/v8r1/sec/camera/MainActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "why do we need to set View to a different xml here?",
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7c968397_a1e3d85b",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/activity_main.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "Its a better practice to use the string from string.xml",
+      "range": {
+        "startLine": 17,
+        "startChar": 40,
+        "endLine": 17,
+        "endChar": 45
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "458abca4_64700109",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/activity_main.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "better to use the string from string.xml",
+      "range": {
+        "startLine": 35,
+        "startChar": 33,
+        "endLine": 35,
+        "endChar": 39
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df3fd797_4ead0eab",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/activity_main.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "sring.xml",
+      "range": {
+        "startLine": 46,
+        "startChar": 22,
+        "endLine": 46,
+        "endChar": 28
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "181bc17d_46cf4f6f",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/activity_main.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "string.xml",
+      "range": {
+        "startLine": 55,
+        "startChar": 33,
+        "endLine": 55,
+        "endChar": 38
+      },
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6404d86e_4d1b1624",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/second_activity.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-07T14:27:05Z",
+      "side": 1,
+      "message": "string.xml",
+      "revId": "806a14b7499f6598177e803d1c1b8e146c90a50c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
