@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bd42facb_e55251b6",
+        "filename": "Phone-Sec-Camera/app/src/main/java/com/v8r1/sec/camera/SettingsActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-27T23:19:51Z",
+      "side": 1,
+      "message": "wouldn\u0027t we need just this?",
+      "range": {
+        "startLine": 84,
+        "startChar": 16,
+        "endLine": 84,
+        "endChar": 26
+      },
+      "revId": "1a7ac9f25a23939bccc0dccf82d566e494898d04",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
