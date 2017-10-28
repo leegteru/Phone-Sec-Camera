@@ -22,6 +22,69 @@
       "revId": "1a7ac9f25a23939bccc0dccf82d566e494898d04",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8f5e3b37_bcae50b1",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/content_main2.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-28T02:41:31Z",
+      "side": 1,
+      "message": "please try to remove these hardcoded values and use relative values.",
+      "range": {
+        "startLine": 13,
+        "startChar": 31,
+        "endLine": 13,
+        "endChar": 36
+      },
+      "revId": "1a7ac9f25a23939bccc0dccf82d566e494898d04",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8b23fa40_e4e4dfdf",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/content_main2.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-28T02:41:31Z",
+      "side": 1,
+      "message": "Please remove this string and use it from string.xml",
+      "revId": "1a7ac9f25a23939bccc0dccf82d566e494898d04",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "af40b027_9bc4996f",
+        "filename": "Phone-Sec-Camera/app/src/main/res/layout/content_main2.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1012218
+      },
+      "writtenOn": "2017-10-28T02:41:31Z",
+      "side": 1,
+      "message": "same as above",
+      "range": {
+        "startLine": 31,
+        "startChar": 32,
+        "endLine": 31,
+        "endChar": 41
+      },
+      "revId": "1a7ac9f25a23939bccc0dccf82d566e494898d04",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
